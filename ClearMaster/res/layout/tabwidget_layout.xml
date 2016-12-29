@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"  
+    android:layout_width="match_parent"  
+    android:layout_height="wrap_content"  
+    android:background="#f5f5f5">  
+    <TextView  
+        android:id="@+id/tabwidget_tv"  
+        android:layout_width="wrap_content"  
+        android:layout_height="wrap_content"  
+        android:textSize="14sp"  
+        android:text="原创"  
+        android:textColor="#333333"  
+        android:layout_centerHorizontal="true"  
+        android:layout_alignParentTop="true"  
+        android:layout_marginTop="8dip"/>  
+    <View  
+        android:id="@+id/tabwidget_line"  
+        android:layout_width="match_parent"  
+        android:layout_height="1dip"  
+        android:background="#d0d0d0"  
+        android:layout_below="@+id/tabwidget_tv"  
+        android:layout_marginTop="8dip"/>  
+</RelativeLayout>  

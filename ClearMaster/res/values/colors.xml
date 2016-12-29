@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <color name="main_tabs_bg">#1f2222</color>
+   <color name="white">#ffffff</color>
+   <color name="red">#FFFF0000</color>
+   <color name="gray">#f4f7f7</color>
+   <color name="blue">#FF0066FF</color>
+   <color name="black">#000</color>
+   <color name="grey">#ff5b5a5a</color>
+   <color name="light_gray">#ffebebeb</color>
+   <color name="deep_gray">#ff3b3b3b</color>
+   
+   <color name="transparentcolor">#ddd</color>
+   <color name="background_tab_pressed">#6633B5E5</color>
+   <color name="indicator_bg">#ecf0f4</color>
+   <color name="usercenter_list_bg">#F0EFF5</color>
+   <color name="presseditem">#F8F8F8</color>
+   <color name="title_bg">#4ea8fc</color>
+   <color name="activity_bg">#F0EFF5</color>
+   <color name="color_pink">#f36861</color>
+   <color name="list_divider">#dddbdb</color>
+   
+   <color name="gold">#efa964</color>
+   <color name="btn_gold_normal">#efb377</color>
+   <color name="color_clarity">#00000000</color>
+   <color name="grey21">#363636</color>
+   
+   <color name="divider_line">#dddddd</color>
+   <color name="reply_text">#6dbf66</color>
+   <color name="user_name_text">#313131</color>
+   <color name="time_text">#a0a0a0</color>
+   <color name="list_bg">#ffffff</color>
+   <color name="list_pressed_bg">#ececec</color>
+   <color name="remain_word_color">#eb3b23</color>
+   <color name="dialog_content_color">#b8b8b8</color>
+   <color name="province_pop_bg">#a5000000</color>
+</resources>
